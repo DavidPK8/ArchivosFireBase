@@ -1,0 +1,7 @@
+{
+  "name": "archivos-con-firebase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
